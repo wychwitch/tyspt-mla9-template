@@ -1,2 +1,2 @@
 # tyspt-mla9-template
-A redirection repo
+The repo has been moved/renamed to [here](https://github.com/wychwitch/typst-mla9-template), please update any links!
